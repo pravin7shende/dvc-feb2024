@@ -1,4 +1,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = s3://dvc-storage-feb24/dvcstore
+    url = s3://dvc-storage-january/dvcstore
